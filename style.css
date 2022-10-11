@@ -29,7 +29,7 @@ header{
 
 body {
     background-color: #FCFFB2;
-    color: #829460 ;
+    color: #829470 ;
     font-family: 'Open Sans', sans-serif;
     margin: 0;
 }
@@ -65,7 +65,7 @@ p{
 }
 
 .cardText{
-    color:  #C69878;
+    color:  #FF884B;
     text-align: center;
     font-size:4rem;
     padding:1rem 2rem;
